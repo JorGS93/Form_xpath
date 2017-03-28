@@ -8,7 +8,7 @@
 
 <style rel="stylesheet" type="text/css">
  <link href="https://fonts.googleapis.com/css?family=Open+Sans:600" rel="stylesheet"></link>
-body{font-family: 'Open Sans';background-image: url(../img/FondoAzul.png);
+body{font-family: 'Open Sans';background-image: url(../img/FondoAzul.png); font-size:20px;
 }
 table{width:100%;border:1px solid;border-radius:5px; background-color:#9ACCFC}
 th{background-color:#cdd8f6;border:2px}
