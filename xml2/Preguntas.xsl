@@ -8,12 +8,12 @@
 
 <style rel="stylesheet" type="text/css">
  <link href="https://fonts.googleapis.com/css?family=Open+Sans:600" rel="stylesheet"></link>
-body{font-family: 'Open Sans';background-image: url(../img/FondoAzul.png); font-size:50px;
+body{font-family: 'Open Sans';background-image: url(../img/FondoAzul.png);
  text-align: center;
 }
 table{width:100%;border:1px solid;border-radius:5px; background-color:#9ACCFC}
 th{background-color:#cdd8f6;border:2px}
-td,tr,th{border:2px solid;padding:2px;vertical-align:top}
+td,tr,th{border:2px solid;padding:2px;vertical-align:top; font-size:20px;}
 span{color:green;padding-left:5px}
 #x{color:red}
 h2{text-align:center;}
