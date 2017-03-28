@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Preguntas.xsl"?>
+
+<!DOCTYPE Preguntas SYSTEM "Preguntas.dtd">
+<questions>
+<question id='jbo001'>
+<type>checkbox</type>
+<title>Si un tren eléctrico va de Norte a Sur,
+¿hacia qué lado echará el humo?</title>
+<option>Hacia la izquierda</option>
+<option>Es eléctrico, no hay humo</option>
+<option>Hacia arriba</option>
+<option>Hacia la derecha</option>
+<answer>1</answer>
+</question>
+
+<question id='jbo002'>
+<type>checkbox</type>
+<title>Si me nombras desaparezco, ¿Quién soy? </title>
+<option>El Silencio</option>
+<option>El Viento</option>
+<option>La oscuridad</option>
+<option>El eco</option>
+<answer> 0 </answer>
+</question>
+
+<question id='jbo003'>
+<type>text</type>
+<title> ¿Así que crees que eres bueno en matemáticas? Completa la secuencia: 1 = 3, 2 = 3, 3 = 5, 4 = 4, 5 = 4, 6 = 3, 7 = 5, 8 = 5, 9 = 4, 10 = 3, 11 =, 12 = ? </title>
+<answer>4</answer>
+</question>
+
+
+<question id='jbo004'>
+ <type>text</type>
+<title> Un granjero tiene 10 conejos, 20 caballos y 40 cerdos. Si llamamos “caballos” a los “cerdos”, ¿cuántos caballos tendrá? </title>
+<answer>20</answer>
+</question>
+
+<question id='jbo005'>
+<type>multiple</type>
+<title>¿Cual es la comida favorita de la bruja de las arenas?</title>
+<option>Patas de lagarto</option>
+<option>Los escorpiones de Egipto</option>
+<option>Vísceras de camello</option>
+<option>El “Sandwitch” porque sand de arena y witch de bruja</option>
+<answer>3</answer>
+</question>
+
+<question id='jbo006'>
+<type>multiple</type>
+<title>En el agua se hace, en ella se deshace ¿Qué es?</title>
+<option>La aspirina</option>
+<option>La sal</option>
+<option>Un cubito</option>
+<option>El azúcar</option>
+<answer>1</answer>
+</question>
+
+<question id='jbo007'>
+<type>radio</type>
+<title>A lo largo de una carretera hay cuatro pueblos seguidos: los Rojos viven al lado de los Verdes pero no de los Grises; los Azules no viven al lado de los Grises. ¿Quiénes son pues los vecinos de los Grises?</title>
+<option>Azules </option>
+<option> Grises </option>
+<option>Rojos </option>
+<option>Verdes</option>
+<answer>3 </answer>
+</question>
+
+
+<question id='jbo008'> 
+<type>radio</type>
+<title>Mira atentamente la siguiente secuencia de números:
+8809 = 6
+7111 = 0
+2172 = 0
+6666 = 4
+1111 = 0
+3213 = 0
+7662 = 2
+9312 = 1
+0000 = 4
+2222 = 0
+3333 = 0
+5555 = 0
+8193 = 3
+8096 = 5
+7777 = 0
+9999 = 4
+7756 = 1
+6855 = 3
+9881 = 5
+5531 = 0
+2581 =¿?
+¿Cuál es el número que sigue a 2581?</title>
+<option>4</option>
+<option>3</option>
+<option>2</option>
+<option>1</option>
+<answer>2</answer>
+</question>
+
+<question id='jbo009'>
+ <type>select</type>
+<title>Hay 2 padres y 2 hijos en una lancha ¿Cuántas personas hay en la lancha?</title>
+<option> 5 personas: hay 3 hijos, un padre, y un padre que también es hijo.</option>
+<option>4 personas: hay dos padres y dos hijos</option>
+<option>2 personas: hay un padre y un hijo</option>
+<option>3 personas: hay un hijo, un padre, y un padre que también es hijo.</option>
+<answer>3</answer>
+</question>
+
+<question id='jbo010'>
+ <type>select</type>
+<title>Encuentra la lógica en las siguientes operaciones y números: 
+3+1 = 24
+5+2 = 37
+7+2 = 59
+8+1 = 79
+7+5 = 212
+15+3 = 1218
+</title>
+<option>Multiplicación entre los 2 números </option>
+<option>Potencia de los 2 números </option>
+<option>Primero resta los 2 números y luego los suma </option>
+<option>Potencia del primer número </option>
+<answer>2</answer>
+</question>
+</questions>
